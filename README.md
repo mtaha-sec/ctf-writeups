@@ -2,35 +2,63 @@
 
 
 
-This repository contains write-ups of various Capture The Flag (CTF) challenges I've completed, organized by challenge type.
+Simple collection of CTF solution write-ups organized by challenge type.
 
 
 
-\## Platforms
+\## Structure
 
 
 
-\- \[HackTheBox](./HackTheBox)
+```
 
-\- \[TryHackMe](./TryHackMe)
+ctf-writeups/
 
-\- \[PicoCTF](./PicoCTF)
+&nbsp; ├─ HackTheBox/
+
+&nbsp; ├─ TryHackMe/
+
+&nbsp; ├─ PicoCTF/
+
+&nbsp; ├─ Web-Challenges/
+
+&nbsp; ├─ Network-Challenges/
+
+&nbsp; └─ Crypto/
+
+```
 
 
 
-\## Challenge Types
+\## How to use
 
 
 
-\- Cloud Challenges
+\* Browse the folders to find write-ups.
 
--Web Challenges
-
--Crypto
+\* Each write-up should be a markdown file (`.md`) with steps, commands, and final flags or outcomes.
 
 
 
-Feel free to explore and learn!
+\## Contributing
+
+
+
+\* Add new write-ups as markdown files in the correct folder.
+
+\* Use clear filenames and include a short summary at the top of each file.
+
+
+
+\## Notes
+
+
+
+\* Empty folders may contain a `.gitkeep` placeholder so Git tracks them.
+
+\* Keep sensitive data and live flags out of public repos.
+
+
 
 
 
