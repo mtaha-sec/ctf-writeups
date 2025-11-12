@@ -8,8 +8,6 @@ Each write-up explains the challenge, tools used, and solution steps.
 - Browse folders to find write-ups.  
 - Each write-up is a markdown file with steps and notes.  
 
----
-
 ## Contributing
 
 - Add new write-ups as markdown files in the correct folder.  
