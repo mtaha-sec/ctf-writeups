@@ -15,4 +15,5 @@ Each write-up explains the challenge, tools used, and solution steps.
 ## NB
 
 Empty folders don’t show up on GitHub by default. To keep folder structure visible, we add a hidden file named `.gitkeep` inside empty folders.
+I practice offensive security as a passion to strengthen my hacker mindset, which helps me identify weaknesses, prevent attacks, and better protect cloud environments.
 
