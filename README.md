@@ -1,6 +1,6 @@
 # CTF Write-Ups
 
-This repository contains my Capture The Flag (CTF) write-ups organized by platform and challenge type.  
+This repository contains my Capture The Flag (CTF) write-ups organized by challenge type.  
 Each write-up explains the challenge, tools used, and solution steps.
 
 ## How to Use
