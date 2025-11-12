@@ -3,19 +3,6 @@
 This repository contains my Capture The Flag (CTF) write-ups organized by platform and challenge type.  
 Each write-up explains the challenge, tools used, and solution steps.
 
----
-
-## Folder Structure
-
-tf-writeups/
-├─ Cloud-Hacking/
-├─ Web-Hacking/
-├─ Crypto/
-
-
-
----
-
 ## How to Use
 
 - Browse folders to find write-ups.  
