@@ -12,5 +12,7 @@ Each write-up explains the challenge, tools used, and solution steps.
 
 - Add new write-ups as markdown files in the correct folder.  
 - Avoid sharing real flags or sensitive info.
+## NB
 
+Empty folders don’t show up on GitHub by default. To keep folder structure visible, we add a hidden file named `.gitkeep` inside empty folders.
 
