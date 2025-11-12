@@ -1,64 +1,27 @@
-\# CTF Write-Ups
+# CTF Write-Ups
 
+> Professional collection of Capture The Flag (CTF) write-ups focused on web, network, cloud, and crypto challenges. This repository is intended as an educational resource and a record of methodology, not a flag dump.
 
+---
 
-Simple collection of CTF solution write-ups organized by challenge type.
+## Table of Contents
+- [About](#about)
+- [Repository Structure](#repository-structure)
+- [Write-Up Format](#write-up-format)
+- [How to Contribute](#how-to-contribute)
+- [Best Practices](#best-practices)
+- [License & Disclaimer](#license--disclaimer)
+- [Contact](#contact)
 
+---
 
+## About
+This repository documents CTF challenges solved across different platforms. Each write-up is written with clarity and reproducibility in mind: challenge description, tools, commands, step-by-step exploitation, mitigation, and key takeaways.
 
-\## Structure
+The goal is to showcase techniques, improve learning, and provide a professional reference for penetration testing methodologies.
 
+---
 
-
-```
-
-ctf-writeups/
-
-&nbsp; ├─ HackTheBox/
-
-&nbsp; ├─ TryHackMe/
-
-&nbsp; ├─ PicoCTF/
-
-&nbsp; ├─ Web-Challenges/
-
-&nbsp; ├─ Network-Challenges/
-
-&nbsp; └─ Crypto/
-
-```
-
-
-
-\## How to use
-
-
-
-\* Browse the folders to find write-ups.
-
-\* Each write-up should be a markdown file (`.md`) with steps, commands, and final flags or outcomes.
-
-
-
-\## Contributing
-
-
-
-\* Add new write-ups as markdown files in the correct folder.
-
-\* Use clear filenames and include a short summary at the top of each file.
-
-
-
-\## Notes
-
-
-
-\* Empty folders may contain a `.gitkeep` placeholder so Git tracks them.
-
-\* Keep sensitive data and live flags out of public repos.
-
-
-
+## Repository Structure
 
 
