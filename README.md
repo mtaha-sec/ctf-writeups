@@ -1,27 +1,31 @@
 # CTF Write-Ups
 
-> Professional collection of Capture The Flag (CTF) write-ups focused on web, network, cloud, and crypto challenges. This repository is intended as an educational resource and a record of methodology, not a flag dump.
+This repository contains my Capture The Flag (CTF) write-ups organized by platform and challenge type.  
+Each write-up explains the challenge, tools used, and solution steps.
 
 ---
 
-## Table of Contents
-- [About](#about)
-- [Repository Structure](#repository-structure)
-- [Write-Up Format](#write-up-format)
-- [How to Contribute](#how-to-contribute)
-- [Best Practices](#best-practices)
-- [License & Disclaimer](#license--disclaimer)
-- [Contact](#contact)
+## Folder Structure
+
+tf-writeups/
+├─ Cloud-Hacking/
+├─ Web-Hacking/
+├─ Crypto/
+
+
 
 ---
 
-## About
-This repository documents CTF challenges solved across different platforms. Each write-up is written with clarity and reproducibility in mind: challenge description, tools, commands, step-by-step exploitation, mitigation, and key takeaways.
+## How to Use
 
-The goal is to showcase techniques, improve learning, and provide a professional reference for penetration testing methodologies.
+- Browse folders to find write-ups.  
+- Each write-up is a markdown file with steps and notes.  
 
 ---
 
-## Repository Structure
+## Contributing
 
+- Add new write-ups as markdown files in the correct folder.  
+- Avoid sharing real flags or sensitive info.
 
+---
